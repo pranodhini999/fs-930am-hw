@@ -1,0 +1,2 @@
+hi this is master msg 1
+hi this is master msg 2
